@@ -1,4 +1,8 @@
-# hello-world
+# vue & electron 脚手架模板
+
+## 当前工具版本
+- node, v14.15.4
+- yarn, 1.22.10
 
 ## Project setup
 ```
