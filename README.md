@@ -3,6 +3,7 @@
 ## 当前工具版本
 - node - v14.15.4
 - yarn - 1.22.10
+- @vue/cli - 4.5.11
 
 ## Project setup
 ```
